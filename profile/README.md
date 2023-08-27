@@ -1,6 +1,6 @@
 <p align="center">
     <br/>
-    <img src="https://github.com/Bugadinho/Cork/raw/master/resources/cork.svg" height="250"/>
+    <img src="https://raw.githubusercontent.com/CorkHQ/.github/main/profile/cork-banner.png" width="100%"/>
     <br/>
     <h1>CorkHQ</h1>
 <p>
